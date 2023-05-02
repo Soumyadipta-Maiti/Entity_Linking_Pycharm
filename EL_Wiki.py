@@ -80,4 +80,4 @@ def el_input():
         print('Error is :', e)
 
 if __name__ == '__main__':
-    myapp.run(port=7575, threaded=False)
+    myapp.run(port=9999, threaded=False)
